@@ -1,2 +1,3 @@
-# spectragram
-Spectragram Records
+# Spectragram Records
+
+http://spectragram.org
